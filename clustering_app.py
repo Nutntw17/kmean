@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr 19 22:14:00 2025
+Created on Sun Apr 27 22:14:00 2025
 
 @author: Nongnuch
 """
@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 
 # Page title
-st.title("🔍 K-Means Clustering App with Iris Dataset by Chotica Paisarnyossakul 6531501029")
+st.title("🔍 K-Means Clustering App with Iris Dataset by 6531501040 Nattawut Pongkasem")
 
 
 # Load dataset
